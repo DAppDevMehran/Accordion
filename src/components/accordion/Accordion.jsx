@@ -1,5 +1,5 @@
 import { useState } from "react";
-import data from "./data.js";
+import data from "../../data";
 import "./styles.css";
 
 export default function Accordion() {
